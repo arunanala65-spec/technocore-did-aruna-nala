@@ -1,0 +1,10 @@
+{
+    "schema": "technocore-contribution-proof-v2",
+    "artifact_url": "https://github.com/arunanala65-spec/technocore-did-aruna-nala",
+    "commit": "025675c44c2613468b1735cb2aa90696192c7422",
+    "did": "did:key:z6MkjqQGE3Uh3bw9o7SKo44FMneZ2HUYiBADD6BfRLTsA5YL",
+    "issued_at": 1795532712,
+    "expires_at": 1803308712,
+    "nonce": "4496396ccbe00c82084a4afd5f44f97c",
+    "signature": "AqUXlCVFGb1nUGwog6F9TsVsY6JaJBlGiReiX0ef51cwBgk-kwuMMCIoU07E6tb9rqdbwt2VlX8nmjelKYkIBg"
+}
